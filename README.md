@@ -4,18 +4,15 @@ I am studying truffle.
 
 # Truffle Quickstart
 Link : https://truffleframework.com/docs/getting_started/project
-
 1. try
 
-    mkdir MetaCoin && cd MetaCoin
-
-    truffle unbox metacoin
-
+        mkdir MetaCoin && cd MetaCoin
+        truffle unbox metacoin
     (there are many other Truffle Boxes. Check this link https://truffleframework.com/boxes )
 
 2. install ganache
 
-    https://truffleframework.com/ganache
+        https://truffleframework.com/ganache
 
     download and install it.
 
@@ -45,14 +42,23 @@ Link : https://truffleframework.com/docs/getting_started/project
 
 5. compiling
 
-    truffle compile
+        truffle compile
 
     If it worked, you can see "build" folder.
 
 6. migrate
 
-    truffle migrate
+        truffle migrate
 
 7. interact with the contract
 
-    truffle console
+        truffle console
+
+
+# Next Trial
+https://truffleframework.com/docs/getting_started/installation
+
+https://truffleframework.com/tutorials
+https://truffleframework.com/tutorials/using-infura-custom-provider
+https://truffleframework.com/tutorials/deploying-to-the-live-network
+https://truffleframework.com/tutorials/how-to-install-truffle-and-testrpc-on-windows-for-blockchain-development
