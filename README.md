@@ -68,6 +68,13 @@ You can see an example of Uint Array add/get/getLength/getArray.
 Check source below Practice1.
 
 
+# Practice2
+
+You can see an example of Bytes32 Array add/get/getLength/getArray.
+
+Check source below Practice2.
+
+
 # Next Trial
 https://truffleframework.com/docs/getting_started/installation
 
