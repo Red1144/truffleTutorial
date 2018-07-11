@@ -4,6 +4,12 @@ I am studying truffle.
 
 # Truffle Quickstart
 Link : https://truffleframework.com/docs/getting_started/project
+
+0. install
+
+        npm install -g truffle
+
+
 1. try
 
         mkdir MetaCoin && cd MetaCoin
@@ -53,6 +59,13 @@ Link : https://truffleframework.com/docs/getting_started/project
 7. interact with the contract
 
         truffle console
+
+
+# Practice1
+
+You can see an example of Uint Array add/get/getLength/getArray.
+
+Check source below Practice1.
 
 
 # Next Trial
